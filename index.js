@@ -67,7 +67,7 @@ Challenge:
     if(tweetInput.value){
         tweetsData.unshift({
             handle: `@Joshua Ombasa`,
-            profilePic: `images/scrimbalogo.png`,
+            profilePic: `images/ombasa.jpg`,
             likes: 0,
             retweets: 0,
             tweetText: tweetInput.value,
