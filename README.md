@@ -22,3 +22,5 @@ Node.js
 Express
 MongoDB
 Redux
+Contributing
+We welcome contributions to Tweevea! If you have an idea for a new feature or found a bug, please feel free to open a pull request or an issue on our Github repository.
