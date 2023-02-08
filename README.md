@@ -16,3 +16,9 @@ Clone the repository: https://github.com/<username>/Tweevea.git
 Navigate to the repository: cd Tweevea
 Install the required dependencies: npm install
 Start the application: npm start
+Technologies
+React
+Node.js
+Express
+MongoDB
+Redux
