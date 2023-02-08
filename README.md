@@ -9,3 +9,10 @@ Tweets: Users can post tweets and view tweets from other users they follow on th
 Follow/Unfollow: Users can follow or unfollow other users to see their tweets on their home timeline.
 Timeline: The home timeline displays the tweets of all the users the user is following.
 
+Installation
+To run Tweevea on your local machine, follow these steps:
+
+Clone the repository: https://github.com/<username>/Tweevea.git
+Navigate to the repository: cd Tweevea
+Install the required dependencies: npm install
+Start the application: npm start
